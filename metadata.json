@@ -1,0 +1,7 @@
+{
+  "name": "ELLIOT - Voice Agent",
+  "description": "A multilingual AI voice agent named Elliot with a business-minded persona.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
